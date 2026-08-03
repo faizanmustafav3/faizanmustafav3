@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-interflocks.com-101827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://interflocks.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-faizanmustafa.link-101827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faizanmustafa.link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faizan_Mustafa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizanmustafa)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@faizanmustafa.com)
 
@@ -17,6 +17,7 @@
 
 Software Engineer specialized in **Backend Engineering**, **Enterprise SaaS Architecture**, **Database Design**, and **Cross-Platform Mobile Apps (React Native)**.
 
+- 🌐 **Personal Portfolio:** [faizanmustafa.link](https://faizanmustafa.link)
 - 🔭 **Primary Focus:** Building scalable enterprise backends, high-throughput database architectures, and secure RESTful APIs.
 - 💼 **Core Tech Stack:** `.NET 8` • `ASP.NET Core` • `PHP (Slim Framework & Laravel)` • `React Native` • `SQL Server`
 - ⚡ **Engineering Philosophy:** Clean Architecture, SOLID Principles, Performance Optimization, and Future-Proof Systems.
@@ -46,7 +47,7 @@ Software Engineer specialized in **Backend Engineering**, **Enterprise SaaS Arch
 
 ---
 
-## ⭐️ Featured Enterprise Projects
+## ⭐️ Featured Enterprise Projects & SaaS
 
 <table>
   <tr>
