@@ -45,59 +45,6 @@ Software Engineer specialized in **Backend Engineering**, **Enterprise SaaS Arch
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## ⭐️ Featured Enterprise Projects & SaaS
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐓 InterFlocks SaaS — <a href="https://interflocks.com">interflocks.com</a></h3>
-      <p><i>Smart Poultry Farm Management Operating System</i></p>
-      <p><b>Tech Stack:</b> .NET 8, Slim Framework / PHP, SQL Server, React Native</p>
-      <ul>
-        <li>All-in-one Broiler, Layer & Breeder flock tracking & performance analytics</li>
-        <li>Feed, hatchery, vaccination scheduling, and audit-logged financial reports</li>
-        <li>2-Factor Security & local payment gateway integration (JazzCash & EasyPaisa)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐄 Farm Management SaaS (HerdManager)</h3>
-      <p><i>Enterprise Livestock & Cattle Management System</i></p>
-      <p><b>Tech Stack:</b> .NET 8, SQL Server, Clean Architecture</p>
-      <ul>
-        <li>Animal pedigree management, milk yield tracking & breeding cycles</li>
-        <li>Financial ledger reports & inventory stock management</li>
-        <li>Scalable database design & high-performance REST APIs</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💰 SplitMunshi</h3>
-      <p><i>Multi-Currency Expense Sharing Platform</i></p>
-      <p><b>Tech Stack:</b> React Native, REST APIs, TypeScript</p>
-      <ul>
-        <li>Multi-currency balance aggregation & expense splitting</li>
-        <li>Group activity feed & real-time notifications</li>
-        <li>Offline-first sync capabilities & performance tuning</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏗️ Clean Architecture Starter Template</h3>
-      <p><i>Enterprise Boilerplate for .NET Core Applications</i></p>
-      <p><b>Tech Stack:</b> ASP.NET Core, EF Core, MediatR, CQRS</p>
-      <ul>
-        <li>Repository & Unit of Work pattern implementation</li>
-        <li>JWT Authentication & Role-based Authorization</li>
-        <li>Structured logging with Serilog & Dependency Injection</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 <div align="center">
 
 ### 📊 GitHub Activity & Languages
