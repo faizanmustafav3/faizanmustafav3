@@ -20,7 +20,7 @@ Software Engineer specialized in **Backend Engineering**, **Enterprise SaaS Arch
 - 🌐 **Personal Portfolio:** [faizanmustafa.link](https://faizanmustafa.link)
 - 🔭 **Primary Focus:** Building scalable enterprise backends, high-throughput database architectures, and secure RESTful APIs.
 - 💼 **Core Tech Stack:** `.NET 8` • `ASP.NET Core` • `NestJS` • `Next.js` • `PHP (Slim Framework & Laravel)` • `React Native` • `SQL Server`
-- ⚡ **Engineering Philosophy:** Clean Architecture, SOLID Principles, Performance Optimization, and Future-Proof Systems.
+- ⚡ **Engineering Philosophy:** Clean Architecture, Performance Optimization, and Future-Proof Systems.
 
 ---
 
