@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer specialized in **Backend Engineering**, **Enterprise SaaS Architecture**, **Database Design**, and **Cross-Platform Mobile Apps (React Native)**.
+Software Engineer specialized in **Backend Engineering**, **Enterprise SaaS Architecture**, **Database Design**, **Cross-Platform Mobile Apps (React Native)**, and **Web Applications**.
 
 - 🌐 **Personal Portfolio:** [faizanmustafa.link](https://faizanmustafa.link)
 - 🔭 **Primary Focus:** Building scalable enterprise backends, high-throughput database architectures, and secure RESTful APIs.
