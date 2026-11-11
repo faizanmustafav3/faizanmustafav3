@@ -19,7 +19,7 @@ Software Engineer specialized in **Backend Engineering**, **Enterprise SaaS Arch
 
 - 🌐 **Personal Portfolio:** [faizanmustafa.link](https://faizanmustafa.link)
 - 🔭 **Primary Focus:** Building scalable enterprise backends, high-throughput database architectures, and secure RESTful APIs.
-- 💼 **Core Tech Stack:** `.NET 8` • `ASP.NET Core` • `PHP (Slim Framework & Laravel)` • `React Native` • `SQL Server`
+- 💼 **Core Tech Stack:** `.NET 8` • `ASP.NET Core` • `NestJS` • `Next.js` • `PHP (Slim Framework & Laravel)` • `React Native` • `SQL Server`
 - ⚡ **Engineering Philosophy:** Clean Architecture, SOLID Principles, Performance Optimization, and Future-Proof Systems.
 
 ---
@@ -30,6 +30,8 @@ Software Engineer specialized in **Backend Engineering**, **Enterprise SaaS Arch
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Slim Framework](https://img.shields.io/badge/Slim_Framework-598D27?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
